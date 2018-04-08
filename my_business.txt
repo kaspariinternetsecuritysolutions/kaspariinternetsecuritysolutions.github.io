@@ -1,0 +1,44 @@
+Kaspari Internet Security Solutions
+
+Email: Kaspari.ISS@gmail.com
+Twitter: @Kaspari_ISS
+Salem, Oregon
+
+Kaspari Internet Security Solutions (KISS) is a Salem-based firm dedicated to making technology safer and more secure. Established in 2018,
+KISS is new to the security business, but will quickly become a proficient business as soon as skills are learned and degrees are earned. 
+The founder, Eli, is currently a student at a local community college where he is learning a wide variety of computer skills.
+
+KISS provides a wide variety of services to the technological community, such as:
+
+Penetration Testing
+-Social Engineering Attacks
+-Hardware and Software Attacks
+-Physical Access
+-Implementing Keyloggers and Stealing Administrator Credentials
+
+Secure Policy Development
+-Policies for Phones
+-Policies for Computers
+-Policies for Firing/Hiring
+
+Physical Security Consulting
+-Access Control
+-Guard Placement
+-Securing Physical Computers
+-Authorization Measures
+
+KISS has been developing a knowledge base through reading books independently as well. Some of those titles include:
+
+The Art of Intrusion, Kevin Mitnick
+The Art of Invisibility, Kevin Mitnick
+The Art of Deception, Kevin Mitnick
+
+Vision and Mission Statement
+
+It is the mission of KISS to make the web a safer place, despite the rising threat of malware, ransomware, hackers, and information leaks.
+
+Your Security
+
+The threat from hackers is out there. They want your information.
+
+Copyright 2018 Eli Kaspari
